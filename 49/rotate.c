@@ -4,6 +4,10 @@
 #include <stdbool.h>
 #include <math.h>
 #include <stdlib.h>
+int main(){
+
+    return 0;
+}
 int x1q,x2q,y1q,y2q;
 char op[10001];
 void does(int a,int b,int c,int t){
